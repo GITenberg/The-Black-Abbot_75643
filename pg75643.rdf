@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/75643">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-17</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1650</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/999">
+        <pgterms:name>Wallace, Edgar</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1875</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</pgterms:deathdate>
+        <pgterms:alias>Wallace, Richard Horatio Edgar</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Edgar_Wallace"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>The Black Abbot</dcterms:title>
+    <pgterms:marc260>  $aGarden City :$bDoubleday, Doran &amp; Company, Inc., $c1928.</pgterms:marc260>
+    <dcterms:description>Reading ease score: 83.2 (6th grade). Easy to read.</dcterms:description>
+    <dcterms:description>Wikipedia page about this book: https://en.wikipedia.org/wiki/The_Black_Abbot_(novel)</dcterms:description>
+    <pgterms:marc508>an anonymous Project Gutenberg volunteer</pgterms:marc508>
+    <pgterms:marc520>"The Black Abbot" by Edgar Wallace is a mystery novel written in the late 1920s. Set in an English estate, the story opens with the Earl of Chelford, who is embroiled in a discussion surrounding the myth of the Black Abbot, a ghost said to haunt Fossaway Manor. As the plot unfolds, themes of family secrets, treasure hunting, and romance intertwine, particularly involving Harry Alford and his brother Dick, along with the enigmatic figure of Leslie Gwyn.   At the start of the narrative, we are introduced to Lord Chelford and his footman Thomas as they discuss the sending of treasury notes, along with the eerie legend of the Black Abbot, which visibly agitates Chelford. He sternly warns Thomas against discussing the ghost and reveals his own fears, indicating that there might be more than just superstition at play. Meanwhile, the presence of the disgruntled former secretary, Miss Wenner, introduces a layer of romantic tension and intrigue, especially concerning the Earl’s upcoming marriage and the potential for hidden treasures within the manor's lore. The beginning deftly sets up a blend of mystery, personal drama, and supernatural elements that will surely engage readers intrigued by tales of haunted estates and the complexities of familial relationships. (This is an automatically generated summary.)</pgterms:marc520>
+    <pgterms:marc904>https://books.google.com/books?id=rsoTAAAAQAAJ</pgterms:marc904>
+    <pgterms:marc905>20250310112229wallace</pgterms:marc905>
+    <pgterms:marc906>1928</pgterms:marc906>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Na3e7d6d70e00444094825702e3e93188">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N0ce7eb307d184d139a1b01f3cdc8719e">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Detective and mystery stories</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4458c8661c034c94bc095601bbb0ff25">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Treasure troves -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N7c0436954eda4bc7993700863139daa0">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Sussex (England) -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ne6dd0b5e2c894af08535a5746b03b710">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Thrillers (Fiction)</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Na7e2e135e6604cb4ad28bb88266786a7">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Abbeys -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2ddabe76a05d447f8209177aebc43cc0">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PR</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nc71ffbf06a704204ae5ad00e2b0e6cf7">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N02d05f4c519f4dffa57fafef0b61bc3d">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Browsing: Crime/Mystery</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">597205</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:08.866929</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbc877fec021441968e242ea2bc04a05b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75643/75643-h/75643-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">574068</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:29:01</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4807842decdb4413941babe8ccbb9f64">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279032</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:16.272942</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc66f0c2ba5784a369d07aa3eeb77d1eb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288893</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:09.898921</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1032660eebda4697bfa8833b062b0ecd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288892</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:09.384039</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N35d069b14d2641d1bd32773b66c9c4c0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486244</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:21.602869</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na07e82032f0445e097973f6ba2e5108c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440881</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:15.821926</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndb734ef57c4546f3b90026cb67040e3c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545077</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:06.471944</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N290ddac6e1b8462592d0a172dfc4a690">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75643/75643-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525342</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:29:01</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na269ae15bb034622a7e48dff925488f5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75643.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14598</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:21.761887</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N970e190841e04491a747985998e98243">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75643/pg75643.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7599</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:09.517971</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfef88282f7fd42d49669cb7d8c6b1e5b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75643/pg75643.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1833</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:09.450933</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0653a2700aa049c0baa50f7b9e6d6145">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75643/pg75643-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/75643"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285446</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-19T17:00:08.920932</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne822ac0b704745acadba23ef3ee88e5e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0de3f9679a61437b839389be8834d826">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Edgar_Wallace">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
